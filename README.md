@@ -4,9 +4,9 @@
 <tr>
 	<td colspan=2 align=center>
 		<center>
-		<img width=300px align=center src="https://raw.githubusercontent.com/cecada/Foscam-Model-X1-Root-Access/main/images/20200626_081025.jpg"> 
-		<img width=300px align=center src="https://raw.githubusercontent.com/cecada/Foscam-Model-X1-Root-Access/main/images/20200702_153529.jpg"> 
-		<img width=300px align=center src="https://raw.githubusercontent.com/cecada/Foscam-Model-X1-Root-Access/main/images/20200823_081724.jpg">
+		<img width=200px align=center src="https://raw.githubusercontent.com/cecada/Foscam-Model-X1-Root-Access/main/images/20200626_081025.jpg"> 
+		<img width=200px align=center src="https://raw.githubusercontent.com/cecada/Foscam-Model-X1-Root-Access/main/images/20200702_153529.jpg"> 
+		<img width=200px align=center src="https://raw.githubusercontent.com/cecada/Foscam-Model-X1-Root-Access/main/images/20200823_081724.jpg">
 <tr>
 	<td colspan=1> <b>Wifi Camera: 
 	<td colspan=1>Foscam Model X1
