@@ -42,7 +42,7 @@
 	<td colspan=1> http://Assigned IP Address:88/
 </table>
 
-<h2>Boot to Root</h2>
+<h2>Boot to Root (CVE-2020-28096)</h2>
 
 <p align="justify">Though other CVEs and write-ups have greatly detailed Foscam's reliance on static UART/Uboot password the X1 model appears to have bucked the trend. Though dumping the firmware via SPI is trivial, but <a href = "https://github.com/santeri3700/opticam_o8_hacking">as this relatively recent git details</a> the hash $1$xY/YSetV$dbTV4dHv6gWzmAlfYTboG1 isn't known to have been cracked. Also, UBoot is password protected. :(
 
